@@ -1,6 +1,7 @@
 # Frontend Mentor - Fylo landing page with two column layout
 
-![Design preview for the Fylo landing page with two column layout challenge](./design/desktop-preview.jpg)
+![desktop-design](https://github.com/ioddgamers/Fylo-landing-page/assets/25953991/a1380763-eb37-4e36-82bf-382cca87dd50)
+
 
 ## Welcome! 👋
 
