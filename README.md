@@ -20,9 +20,12 @@ You can use any tools you like to help you complete the challenge. So if you've 
 Your users should be able to: 
 
 - View the optimal layout for the site depending on their device's screen size
+
 - See hover states for all interactive elements on the page
 
 ## Desktop design
 ![desktop-design](https://github.com/ioddgamers/Fylo-landing-page/assets/25953991/0fe1ee59-a4e9-48fe-a762-fbe0565ffda3)
 
 
+## Live Page
+https://ioddgamers.github.io/Fylo-landing-page/
