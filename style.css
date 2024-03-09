@@ -564,7 +564,6 @@ h1, h2, h3, h4 {
     .footer-container{
         display: grid;
         grid-template-columns: repeat(4, auto);
-        grid-template-rows: 1fr 1fr 1fr 1fr;
         padding: 3rem 7rem;
     }
 
