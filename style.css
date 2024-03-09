@@ -33,7 +33,6 @@ h1, h2, h3, h4 {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: var(--Light-Grayish-Blue);
     padding: 2rem;
 }
 
