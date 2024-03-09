@@ -10,6 +10,7 @@ button.addEventListener('click', firstEmailValidation);
 button2.addEventListener('click', secondEmailValidation);
 
 function firstEmailValidation() {
+    event.preventDefault();
     
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     const email = firstEmailInput.value;
@@ -24,6 +25,8 @@ function firstEmailValidation() {
 }
 
 function secondEmailValidation() {
+    event.preventDefault();
+    
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     const email = secondEmailInput.value;
 
